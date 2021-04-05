@@ -4,6 +4,14 @@
 
 Each program begins at the same number to search for prime numbers according to a naive algorithm, stopping when 10 prime numbers have been found.
 
+## Summary
+
+|      | C         | Go        | Python    |
+| ---- | --------- | --------- | --------- |
+| real | 0m18.910s | 0m15.328s | 2m42.471s |
+| user | 0m18.887s | 0m15.317s | 2m42.268s |
+| sys  | 0m0.005ss | 0m0.012s  | 0m0.012s  |
+
 ## C program run
 
 ```
